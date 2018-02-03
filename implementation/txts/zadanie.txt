@@ -1,0 +1,7 @@
+14. Proszę napisać algorytm znajdujący w tablicy jednowymiarowej:
+    a) dominantę – wartość elementu w tablicy, występującego najczęściej
+        ( o największej krotności). Np. dla tablicy A={ 1,2,2,3,6,3,1,2,8,2,4,2,9,2} taką wartością jest 2.
+    b) Medianę – środkowy element w tablicy po jej uporządkowaniu. Jeśli tablica ma nieparzystą
+        liczbę elementów, to ma jeden środkowy element. W przypadku parzystej liczby elementów,
+        za medianę przyjmuje się jeden z dwóch środkowych elementów.
+        Np. dla A={1,4,8,6,3,1,9} medianą jest wartość 4. Dla B={2,3,8,4} za medianę można przyjąć albo 3 albo 4.
